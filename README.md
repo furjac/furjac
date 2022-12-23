@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @furjac
-- 👀 I’m interested in development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on full stack development
+- 👀 I’m interested in ethical hacking
+- 🌱 I’m currently learning python gui kivy 
 - 📫 How to reach me discord https://discord.gg/YN9RKxewsq
 
 <!---
